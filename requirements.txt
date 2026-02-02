@@ -1,0 +1,2 @@
+# Requires: eternal-infinity
+# (Not available on PyPI)
